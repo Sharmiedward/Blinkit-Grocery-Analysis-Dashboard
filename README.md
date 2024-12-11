@@ -4,8 +4,8 @@ The Blinkit Grocery Analysis Dashboard is designed to provide actionable insight
 
 ## Data Source
  - Dataset: The dataset was provided as an Excel file containing sales, item performance, outlet details, and customer rating information.
-   
- - Attributes:
+  
+ - Attributes
 1. Outlet locations and sizes
 2. Item types and fat content
 3. Sales metrics and customer ratings
@@ -33,13 +33,13 @@ Created interactive visualizations to provide insights into sales, outlet perfor
 Added filters for outlet location, size, and item types for dynamic analysis.
 
 ## Dashboard Overview
-### Key Metrics: 
+### Key Metrics
  - Total Sales: $1.20M
  - Number of Items Sold: 8,523
  - Average Sales per Outlet: $141
  - Average Customer Rating: 3.9
    
-### Visuals:
+### Visuals
  - Cards:
 Highlighting KPIs like Total Sales, Average Sales, Number of Items, and Average Ratings.
 
